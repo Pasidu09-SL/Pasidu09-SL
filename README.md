@@ -1,10 +1,11 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Pasidu Sachintha</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Pasidu Sachintha</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Student+at+Rajarata+Univercity+SriLanka;Director+and+Web+Developer+at+Wrenix;Always+learning+new+things"></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pasidu09-SL&label=Profile%20views&color=0e75b6&style=flat" alt="Pasidu Sachintha" /> </p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">

@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, Angular**
 
-- 👨‍💻 All of my projects are available at [https://mrpasiya.pages.dev/Pasidu09-SL target="_blank"](https://mrpasiya.pages.dev/Pasidu09-SL)
+- 👨‍💻 All of my projects are available at [https://mrpasiya.pages.dev/Pasidu09-SL](https://mrpasiya.pages.dev/Pasidu09-SL)
 
 - 📫 How to reach me **m.k.p.sachintha09@gmail.com**
 

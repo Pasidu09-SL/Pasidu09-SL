@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<a href="https://safari-booking-website.vercel.app/">
+<a href="https://www.gosafariyala.com/">
   <img src="public/loading.webp" width="300" />
 </a>
 <a href="https://www.wrenix.com/">
